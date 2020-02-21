@@ -544,6 +544,29 @@
   Services:
   - SRMv2
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 451454481
+  Description: dCache upgrade
+  Severity: Outage
+  StartTime: Jan 29, 2020 14:00 +0000
+  EndTime: Jan 29, 2020 23:00 +0000
+  CreatedTime: Jan 27, 2020 11:17 +0000
+  ResourceName: USCMS-FNAL-WC1-SE
+  Services:
+  - SRMv2
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 461306028
+  Description: Disk dCache version upgrade
+  Severity: Severe
+  StartTime: Feb 12, 2020 14:00 +0000
+  EndTime: Feb 12, 2020 23:00 +0000
+  CreatedTime: Feb 07, 2020 20:56 +0000
+  ResourceName: USCMS-FNAL-WC1-SE2
+  Services:
+  - FTS
+  - SRMv2
+# ---------------------------------------------------------
 
 
 
